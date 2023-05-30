@@ -1,4 +1,4 @@
-# dropdownlist
+Prevent keyboard dismiss when tapping DropdownButton
 
 This project is only to solve a problem of prevent keyboard dismiss when tapping DropdownButton using Focus widget.
 The Focus widget owns and manages a focus node, and is the workhorse of the focus system. 
